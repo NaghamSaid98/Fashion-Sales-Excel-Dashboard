@@ -6,7 +6,7 @@ THis Excel Workbook includes some pivot tables and pivot charts and a dataset fo
 - Bar chart (sales by manager)
 - Bar chart (sales by category)
 - Pie chart (percentage of sales for each chain)
-- Map chart(sales in each state)
+- Map chart (sales in each state)
 - Sparkline (sales in each chain and total sales)
 - Slicers (used to filter data)
 
